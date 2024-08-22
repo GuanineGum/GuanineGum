@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Guanine Gum
+- 👀 I’m interested in developing Kotlin apps
+- 😀 Call me he/him
